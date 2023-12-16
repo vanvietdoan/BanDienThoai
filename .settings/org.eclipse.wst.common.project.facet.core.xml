@@ -3,6 +3,8 @@
   <runtime name="Apache Tomcat v8.5"/>
   <fixed facet="wst.jsdt.web"/>
   <fixed facet="jst.web"/>
+  <fixed facet="jst.web"/>
+  <fixed facet="wst.jsdt.web"/>
   <fixed facet="java"/>
   <installed facet="java" version="21"/>
   <installed facet="jst.web" version="3.1"/>
